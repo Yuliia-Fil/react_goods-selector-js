@@ -12,9 +12,9 @@ In this task, we use the [Bulma CSS framework](https://bulma.io/). It is already
 1. Add the `has-background-success-light` class to the `tr` of the selected Good.
 1. Show the `ClearButton` button in the title only when a good is selected.
 1. `ClearButton` should clear the selection by setting an empty string to `selectedGood`.
-1. The title should show `No goods selected` when there is no selected good.
+1. The title should show `No goods selected` when   there is no selected good.
 1. Each good should have an `AddButton` to select the good.
-    - only 1 good can be selected at a time;
+    - only 1 good can be selected at a   time;
 1. Don't show `AddButton` when a good is selected.
 1. Show `RemoveButton` for the selected good to clear the selection.
 
